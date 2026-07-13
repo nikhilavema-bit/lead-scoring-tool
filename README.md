@@ -56,7 +56,7 @@ triage work eliminated per batch, with zero inconsistency between runs.
 ## Example Output
 
 === Prioritized Lead List ===
-Initech              Hot    budget: $150,000
+Initech              Hot    budget: $150,000/n
 Stark Industries     Hot    budget: $90,000
 Wayne Ent.           Hot    budget: $60,000
 Globex Inc           Warm   budget: $25,000
