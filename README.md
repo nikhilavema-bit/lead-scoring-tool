@@ -54,7 +54,7 @@ triage work eliminated per batch, with zero inconsistency between runs.
   multi-field ranking
 
 ## Example Output
-
+```
 === Prioritized Lead List ===
 Initech              Hot    budget: $150,000/n
 Stark Industries     Hot    budget: $90,000
@@ -66,6 +66,7 @@ Soylent Corp         Cold   budget: $4,000
 Acme Corp            Cold   budget: $500
 Pied Piper           Cold   budget: $200
 Cyberdyne Systems    Cold   budget: $100
+```
 
 ## About This Project
 
