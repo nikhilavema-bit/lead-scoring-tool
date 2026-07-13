@@ -72,10 +72,10 @@ Cyberdyne Systems    Cold   budget: $100
 ## About This Project
 
 Built as part of a hands-on GTM engineering curriculum. Drawing on my prior 
-experience as a Customer Operations Engineer at HighRadius — where I 
-configured automated rules for enterprise finance workflows — this project 
+experience as a Techno Funtional Consultant at HighRadius, where I 
+configured automated rules for enterprise finance workflows, this project 
 applies the same "define the rule once, apply it consistently at scale" 
-principle to a sales/GTM use case.
+principle to a GTM use case.
 
 ## What's Next
 
