@@ -26,7 +26,7 @@ A Python script that:
 3. Applies the exact same logic to every lead, every time — removing the 
    inconsistency of manual judgment calls
 
-### Core logic
+## Core logic
 
 python
 def score_lead(employee_count, budget):
